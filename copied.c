@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define SIZE 4
+#define SIZE 5
 
 void showArrayAdressess(float array[])
 {
